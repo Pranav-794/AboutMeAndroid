@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Pranav Patel</string>
+    <string name="yellow_star">Yellow Star String Resource</string>
+    <string name="bio">Dewi Sartika was the leading figure for the education for Indonesia women. She was born on 4 December 1884 and died on 11 September 1947. The most important acts she made were when she founded the first school for women. Because of it, she was acknowledged formally as National Hero in 1966.
+Dewi Sartika was born in Cicalengka on 4 December 1884 in the aristocratic Sundanese family. Her father is R. Rangga Somanegara and her mother is R. A. Raja pemas. According to some biographies, as a child, Dewi Sartika often pretended to be a teacher. He studied in the Dutch School. She lived with her uncle after her father died and then received Sundanese education culture there. In 1899 she decided to move to Bandung.
+She founded Sekolah Isteri on 16 January 1904 in Bandung. The school took place at Badung Regency’s Pendopo but then relocated to Ciguriang Street. In the new location, the name of the school was changed to Sekolah Kaoetamaan Isteri. In 1912, the school became so popular and had nine branches in West Java. In 1920, all cities in West Java have one school. However, the school changed its name in September 1929 to Sekolah Raden Dewi.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
